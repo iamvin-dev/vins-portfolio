@@ -6,7 +6,7 @@ import { motion } from 'framer-motion';
 const ProjectsArr = [
     {
         name: 'Portfolio Website',
-        link: 'https://github.com/iamvin-dev/vins-new-homepage',
+        link: 'https://github.com/iamvin-dev/vins-portfolio',
         description:
             'This is my portfolio website. It displays a lot of infos about me and my projects.',
         image: 'https://media.discordapp.net/attachments/1018556355197550635/1020739137466286221/unknown.png?width=1151&height=648',
