@@ -35,7 +35,7 @@ function Contact() {
 
                 <motion.div initial={{ opacity: 0, y: 180 }} animate={{ opacity: 1, y: 0 }} transition={{ type: "spring", duration: 0.7 }} className="flex flex-col gap-5">
                     {ContactArr.map((contact, index) => (
-                        <div className="flex flex-col gap-2 custom-bg p-10 w-full rounded-lg">
+                        <div className="flex flex-col white-shadow gap-2 custom-bg p-10 w-full rounded-lg">
                             <center>
                                 <img src={contact.image} className=" w-fit md:max-w-md max-h-56 mb-5 rounded-lg" />
                                 <h1 className="text-lg md:text-2xl font-bold text-gray-100 mt-5">{contact.title}</h1>

@@ -8,31 +8,37 @@
 }
 
 body {
-    background-color: #1b1b1b;
+    background-color: #121212;
 }
 
 .custom-bg {
-    background-color: #202020;
+    background-color: #121212;
     transition: all;
 }
 .custom-bcolor {
-    background-color: #242424;
+    background-color: #121212;
 }
-
+.filter-bg {
+    background-color: #161616;
+}
 .filter-bg:hover {
-    background-color: #292929;
+    background-color: #212121;
 }
 
 .tag-bg {
-    background-color: #292929;
+    background-color: #161616;
 }
 
 .custom-bcolor:hover {
-    background-color: #262626;
+    background-color: #131313;
 }
 
 .center-divs {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.white-shadow {
+    box-shadow: 0 0 10px 0 rgb(103, 103, 103);
 }

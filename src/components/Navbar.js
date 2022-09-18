@@ -22,7 +22,7 @@ const Navbar = () => {
 
   return (
     <div className='p-5'>
-        <nav className="flex rounded-xl items-center justify-between flex-wrap custom-bg p-6">
+        <nav className="flex white-shadow rounded-xl items-center justify-between flex-wrap custom-bg p-6">
             <div className="flex items-center flex-shrink-0 text-white mr-6">
                 <Link to="/" className="font-semibold text-xl tracking-tight">Vin's Portfolio</Link>
             </div>

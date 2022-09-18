@@ -28,7 +28,7 @@ function MainRoute() {
           <h2 className="text-2xl font-light text-gray-300">I'm currently learning the backend programming Go.</h2>
 
           </div>
-          <Link to="/projects" className='mt-10 p-2 text-white custom-bcolor  text-center  hover:text-white transition-all rounded-lg'>View all my projects</Link>
+          <Link to="/projects" className='mt-10 p-2 white-shadow text-white custom-bcolor  text-center  hover:text-white transition-all rounded-lg'>View all my projects</Link>
         </motion.div>
         <motion.div  initial={{ opacity: 0, y: 180 }} animate={{ opacity: 1, y: 0 }} transition={{ type: "spring", duration: 0.9 }} className=" flex-col ml-0 md:ml-10 flex">
           <img src="https://media.discordapp.net/attachments/1018224134804746332/1019682148942356500/unknown.png?width=609&height=647" alt="langs"  className=' w-80 md:w-96'/>

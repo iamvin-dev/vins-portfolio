@@ -96,7 +96,7 @@ function Projects() {
 
                         <div className="flex flex-wrap gap-5">
                             {projects.map((project) => (
-                                <motion.div initial={{ opacity: 0, y: 180 }} animate={{ opacity: 1, y: 0 }} transition={{ type: "spring", duration: 0.7 }} key={project.name} className="flex  p-7 max-w-lg rounded-lg flex-col gap-2 custom-bg">
+                                <motion.div initial={{ opacity: 0, y: 180 }} animate={{ opacity: 1, y: 0 }} transition={{ type: "spring", duration: 0.7 }} key={project.name} className="flex white-shadow  p-7 max-w-lg rounded-lg flex-col gap-2 custom-bg">
                                     <div className='flex-grow'>
                                         <img src={project.image} alt="project image" className="rounded-lg mb-5 w-max h-32 md:h-64" />
                                         <a href={project.link} className="text-2xl pb-2 font-semibold text-gray-100">{project.name}</a>

@@ -222,7 +222,7 @@ function Skills() {
                         <center>
                             <div className="flex flex-wrap pl-2 gap-5">
                                 {skill.entries.map((entry, index) => (
-                                    <div className="flex flex-col gap-2 custom-bg p-10 w-full rounded-lg">
+                                    <div className="flex white-shadow flex-col gap-2 custom-bg p-10 w-full rounded-lg">
                                         <center>
                                         <img src={entry.image} className=" w-fit md:max-w-md max-h-56 rounded-lg" />
                                         <h1 className="text-lg md:text-2xl font-bold text-gray-100 mt-10">{entry.title}</h1>
