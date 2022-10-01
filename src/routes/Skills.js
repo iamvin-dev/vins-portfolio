@@ -111,10 +111,10 @@ const SkillsArr = [
                 "image": "https://media.discordapp.net/attachments/1010317509150396581/1013116075078074398/Python_logo_01.svg.png?width=606&height=606"
             },
             {
-                "title": "Go",
+                "title": "C#",
                 "bg-color": "#4d8ef7",
                 "txt-color": "#fff",
-                "image": "https://media.discordapp.net/attachments/1010317509150396581/1014564255191814285/unknown.png"
+                "image": "https://media.discordapp.net/attachments/1018224134804746332/1025774053732130906/unknown.png?width=671&height=671"
             },
         ],
     },
