@@ -195,6 +195,12 @@ const SkillsArr = [
                 "bg-color": "#34c7bb",
                 "txt-color": "#fff",
                 "image": "https://media.discordapp.net/attachments/1010317509150396581/1013117399471493233/chakra-ui.dark.png",
+            },
+            {
+                "title": "TailwindCSS",
+                "bg-color": "#34c7bb",
+                "txt-color": "#fff",
+                "image": "https://media.discordapp.net/attachments/1018224134804746332/1025774554506858546/unknown.png?width=671&height=671",
             }
         ]
     }
