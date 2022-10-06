@@ -114,7 +114,7 @@ const SkillsArr = [
                 "title": "C#",
                 "bg-color": "#4d8ef7",
                 "txt-color": "#fff",
-                "image": "https://media.discordapp.net/attachments/1018224134804746332/1025774053732130906/unknown.png?width=671&height=671"
+                "image": "https://media.discordapp.net/attachments/1026285749173223478/1027713193344241664/unknown.png?width=1151&height=648"
             },
         ],
     },
