@@ -25,7 +25,7 @@ function MainRoute() {
           <div className='pl-2'>
           <h2 className="text-2xl font-light text-gray-300">I'm a 15 year old fullstack developer from Germany.</h2>
           <h2 className="text-2xl font-light text-gray-300">I love to code and create new things.</h2>
-          <h2 className="text-2xl font-light text-gray-300">I'm currently learning the backend programming Go.</h2>
+          <h2 className="text-2xl font-light text-gray-300">Learning new technologies is fun.</h2>
 
           </div>
           <Link to="/projects" className='mt-10 p-2 white-shadow text-white custom-bcolor  text-center  hover:text-white transition-all rounded-lg'>View all my projects</Link>
