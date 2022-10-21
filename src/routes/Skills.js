@@ -115,6 +115,15 @@ const SkillsArr = [
         ],
     },
     {
+        "title": "Proxy Management",
+        "entries": [
+            {
+                "title": "Nginx Proxy Manager",
+                "image": "https://media.discordapp.net/attachments/1026285749173223478/1033019537454542910/unknown.png"
+            },
+        ],
+    },
+    {
         "title": "Project Control",
         "entries": [
             {
