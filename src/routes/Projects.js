@@ -9,27 +9,9 @@ const ProjectsArr = [
         link: 'https://github.com/iamvin-dev/vins-portfolio',
         description:
             'This is my portfolio website. It displays a lot of infos about me and my projects.',
-        image: 'https://media.discordapp.net/attachments/1018556355197550635/1020739137466286221/unknown.png?width=1151&height=648',
-        tags: ['JavaScript', 'NextJS', 'Website', 'TailwindCSS', 'Vercel'],
+        image: 'https://media.discordapp.net/attachments/1026285749173223478/1033018220988342342/unknown.png?width=1288&height=671',
+        tags: ['JavaScript', 'React', 'Website', 'TailwindCSS', 'Vercel'],
     },
-    {
-        name: 'Github Profiles',
-        link: 'https://github.com/iamvin-dev/github-profiles',
-        description:
-            'This website is a simple project that I made to learn how to use the Github API. You can search for a Github user and see their profile.',
-        image: 'https://media.discordapp.net/attachments/1010317509150396581/1014559571664179301/github-profiles.png?width=1078&height=606',
-        tags: ['JavaScript', 'React', 'Website', 'API', 'Vercel'],
-    },
-    {
-        name: 'Cointracker',
-        link: 'https://github.com/iamvin-dev/cointracker',
-        description:
-            'This website is a simple project that I made to learn how to use React. You can see the top 50 cryptocurrencies and view their current information.',
-        image: 'https://media.discordapp.net/attachments/1010317509150396581/1014559571223793694/cointracker.png?width=1078&height=606',
-        tags: ['JavaScript', 'React', 'Website', 'API', 'Vercel'],
-    },
-
-
 ];
 
 const filterArr = [
